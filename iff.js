@@ -18,4 +18,3 @@ do{
     };
      //console.log(login);
 } while (login != 'zaa');console.log("OK");
-for (s=4;)
