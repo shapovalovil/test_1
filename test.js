@@ -22,5 +22,6 @@ let a1 = prompt("Введите обязательную статью расхо
 	a3 = prompt("Введите обязательную статью расходов в этом месяце", ''),
 	a4 = prompt("Во сколько обойдется?", '');
 
-
+    appData.imeData = time;
     alert(appData.budjet / 30);
+    alert(appData.);
